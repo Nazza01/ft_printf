@@ -1,7 +1,9 @@
 # ft_printf Results 100/100
 
 Programming Language/Tools: C (c99 standard).
+
 Description: Re-writing the printf function using the C programming language.
+
 Skills Learned: Unix Logic, Rigor, Algorithms & AI.
 
 # Marks
